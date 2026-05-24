@@ -1,6 +1,10 @@
-# BookMyShow Low-Level Design
+# bookmyshow-lld-java
 
 A Spring Boot backend implementation of a BookMyShow-style movie ticket booking system. The project focuses on low-level design for theatres, auditoriums, movies, shows, seats, show seats, users, and ticket booking.
+
+## Portfolio Role
+
+This repository is maintained by Mamani Kedarnath as a Java low-level design portfolio project focused on seat booking workflows, domain modeling, and transaction-aware service design.
 
 ## Tech Stack
 
